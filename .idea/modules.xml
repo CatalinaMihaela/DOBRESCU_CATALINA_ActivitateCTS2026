@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Dobrescu_01/Dobrescu_01.iml" filepath="$PROJECT_DIR$/Dobrescu_01/Dobrescu_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dobrescu_02/Dobrescu_02.iml" filepath="$PROJECT_DIR$/Dobrescu_02/Dobrescu_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dobrescu_Catalina_ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/Dobrescu_Catalina_ActivitateCTS2026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dobrescu_01/Lab_02/Lab_02.iml" filepath="$PROJECT_DIR$/Dobrescu_01/Lab_02/Lab_02.iml" />
     </modules>
   </component>
 </project>
